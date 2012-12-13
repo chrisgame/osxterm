@@ -1,0 +1,12 @@
+[color]
+	ui = true
+	diff = true
+[user]
+	email = noraesae@company100.net
+	name = HyeonJe Jun
+[alias]
+    lg = log --decorate=short
+    co = checkout
+    br = branch
+    cm = commit
+    pick = cherry-pick
