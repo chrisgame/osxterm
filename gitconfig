@@ -2,8 +2,8 @@
 	ui = true
 	diff = true
 [user]
-	email = noraesae@company100.net
-	name = HyeonJe Jun
+	email = noraesae@yuiazu.net
+	name = Hyeonje Alex Jun
 [alias]
     lg = log --decorate=short
     co = checkout
